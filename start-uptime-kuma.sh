@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cd /home/uptime-kuma
 
 # Check if the container "fusiongpt" already exists
